@@ -1,0 +1,26 @@
+                 precision    recall  f1-score   support
+
+Capim Cidereira       1.00      0.96      0.98        24
+ Capp Chocolate       1.00      0.96      0.98        24
+   Capp Classic       0.93      1.00      0.96        27
+   Cha Camomila       0.96      0.96      0.96        27
+       Cha Maca       0.93      1.00      0.96        27
+   Cha Maracuja       0.96      1.00      0.98        26
+        Chamyto       0.83      1.00      0.91        25
+      Dr.Oetker       1.00      0.92      0.96        24
+        Guarany       1.00      1.00      1.00        28
+           Izzy       1.00      0.96      0.98        23
+     KO Natoons       1.00      0.74      0.85        23
+        Kellmat       1.00      0.83      0.91        24
+     Kinder Ovo       0.96      1.00      0.98        24
+          Maggi       1.00      1.00      1.00        25
+    Matte Leão       0.87      0.67      0.75        30
+ Matte Original       0.70      0.88      0.78        26
+        Pantene       1.00      1.00      1.00        24
+   Quero Seleta       0.90      0.96      0.93        27
+           Raid       0.90      1.00      0.95        27
+          Skala       1.00      0.96      0.98        25
+
+       accuracy                           0.94       510
+      macro avg       0.95      0.94      0.94       510
+   weighted avg       0.94      0.94      0.94       510
